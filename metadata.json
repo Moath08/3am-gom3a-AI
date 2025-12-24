@@ -1,0 +1,8 @@
+{
+  "name": "3am Goma3a AI",
+  "description": "A high-performance business website for 3am Goma3a AI, specializing in business automation, custom LLMs, and data strategy.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
